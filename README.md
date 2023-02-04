@@ -5,4 +5,4 @@ Scraper for the ESPNcricinfo website's win probability metrics
 
 `match_ids.csv` contains all tournament & match ids from each BBL game up to the end of BBL|12.
 
-`winviz.csv` contains the data from each BBL match for download purposes.
+`winviz.rds` contains the data from each BBL match for download purposes.
